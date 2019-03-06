@@ -4,5 +4,5 @@ kaggle上的mnist比赛。
 
 
 ## 2、利用keras的Sequential模型搭建卷积神经网络，网络结构如下图所示：
-<img src=https://github.com/buweifuyunzhewangyan/keras-test/blob/master/1551870144(1).png" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/buweifuyunzhewangyan/keras-test/blob/master/1551870144(1).png" width="150" height="150" alt="图片加载失败时，显示这段字"/>
 
